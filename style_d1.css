@@ -1,0 +1,49 @@
+*{
+    margin: 0; 
+    border: 0;
+    padding: 0;
+}
+
+#barNav {
+    background-color: black;
+}
+#barNav a{
+    color: white;
+    margin: 15px 15px 15px 15px;
+    
+}
+#barNav li{
+    display: inline;
+}
+header {
+    background-image: url(assets/img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: sans-serif;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    color: white;
+} 
+header h1{
+    font-size: 60px;
+}
+header h3{
+    font-size: lighter;
+}
+
+#ubicacion{
+   align-items: center; 
+}
+
+
+
+
+
+
+    
+
+    
+
+
